@@ -13,7 +13,7 @@ Download and extract `data` folder from [link](https://drive.google.com/file/d/1
 ## Special Thanks
 We thank VITA Lab for providing clusters on `izar` for training our models in Miniproject 2!
 
-## Follow up fixs
+## Follow up fixes
 1. Fixed `Sequential` backpropagation and parameter saving to resolve potential issues that could arise when building such a structure.
 ```
 self.model = Sequential(
